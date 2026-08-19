@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHILL COFFEE - HƯƠNG VỊ CỦA SỰ BÌNH YÊN</title>
+</head>
+<body>
+ <table border="1" align="center" width="800" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+        <td colspan="5" style="vertical-align: middle; padding: 10px 0;">
+            <img src="../img/ly_caphe.jpg" alt="Chill Coffee" width="auto" height="100" align="right">
+            <ul style="margin: 0; padding-left: 50px;">
+                <li style="list-style-type: none;">
+                    <h1 style="margin: 10;"><font color="#763b08">CHILL COFFEE</font></h1>
+                    <p style="margin: 10;font-family: Lobster Two;">Góc nhỏ chill nhẹ, lòng thấy vui ghê</p>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr style="background-color: #4A2306; color: white; font-size: 13px; font-weight: bold; text-transform: uppercase;border: 1px solid black;">
+        <td style="padding: 10px 15px;" align="center" width="20%"><a href="trang-chu.html" style="color: white; text-decoration: none;">Trang chủ</a></td>
+        <td style="padding: 10px 15px;" align="center" width="20%"><a href="gioi-thieu.html" style="color: white; text-decoration: none;">Giới thiệu</a></td>
+        <td style="padding: 10px 15px;" align="center" width="20%"><a href="thuc-don.html" style="color: white; text-decoration: none;">Thực đơn</a></td>
+        <td style="padding: 10px 15px;" align="center" width="20%"><a href="dat-hang.html" style="color: white; text-decoration: none;">Đặt hàng</a></td>
+        <td style="padding: 10px 15px;" align="center" width="20%"><a href="lien-he.html" style="color: white; text-decoration: none;">Liên hệ</a></td>
+    </tr>
+    <table border="1" align="center" width="800" cellpadding="0" cellspacing="0" style="border-collapse: collapse;background-color: #ffd2af;">
+        <tr>
+            <td colspan="2" style="padding: 20px; text-align: center;">
+                <h2 style="color: #4A2306;">Chào mừng đến với iem CHILL!</h2>
+                <p style="margin: 10;font-family: Lobster Two;text-align: justify;">Chill coffe – Góc Nhỏ Bình Yên Giữa Lòng Thành Phố
+Giữa nhịp sống hối hả và tất bật, Chill coffe ra đời với mong muốn mang đến cho bạn một khoảng nghỉ trọn vẹn cho tâm hồn. Với không gian ấm cúng, ngập tràn ánh sáng tự nhiên cùng hương thơm mộc mạc của từng hạt cà phê rang xay nguyên chất, đây là nơi lý tưởng để bạn bắt đầu ngày mới năng động hoặc thư giãn sau những giờ làm việc mệt mỏi. Chúng tôi không chỉ chú trọng mang đến những ly thức uống chất lượng được pha chế tỉ mỉ, mà còn gửi gắm vào đó sự phục vụ tận tâm và thân thiện nhất. Dù bạn cần một góc yên tĩnh để tập trung làm việc, một không gian xanh mát để đọc sách, hay chỉ đơn giản là tìm một nơi nhẹ nhàng để chuyện trò cùng bạn bè, Chill coffe luôn sẵn sàng chào đón bạn. Hãy ghé chơi cùng tụi mình để tự thưởng cho bản thân những phút giây thong thả và sạc lại năng lượng nhé!</p>
+            </td>
+        </tr>
+        <tr>
+    <td width="50%" align="center" valign="top">
+        <h3>Các loại đồ uống</h3>
+        <table border="0" width="80%">
+            <tr>
+                <td>Cà phê đen</td>
+                <td align="right"><b>20.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Cà phê sữa</td>
+                <td align="right"><b>25.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Trà sữa</td>
+                <td align="right"><b>30.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Trà đào</td>
+                <td align="right"><b>28.000đ</b></td>
+            </tr>
+        </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+        <h3>Các món ăn</h3>
+        <table border="0" width="80%">
+            <tr>
+                <td>Bánh tráng</td>
+                <td align="right"><b>15.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Bánh ngọt</td>
+                <td align="right"><b>20.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Caramen</td>
+                <td align="right"><b>12.000đ</b></td>
+            </tr>
+            <tr>
+                <td>Rau câu</td>
+                <td align="right"><b>10.000đ</b></td>
+            </tr>
+        </table>
+    </td>
+    <tr>
+        <td colspan="2" align="center">
+        <a href="../img/menu.jpg" download>Tải Menu</a>
+        <p> Trang web quán: <a href="http://nightcoffeeandchill.com/" target="_blank">http://chillcoffe.com/</a></p>
+        <img src="../img/nuoc.jpg" alt="nước" width="auto" height="100%" align="center">
+    </td>
+    </tr>
+    
+</tr>
+<tr>
+        <td colspan="5" style="padding: 20px; background-color:#ffd2af;">
+                <h3 align="center" style="color: #4A2306; margin-top: 0; text-transform: uppercase;">PHIẾU ĐẶT BÀN TRỰC TUYẾN</h3>        
+                <form>
+                    <table border="0" width="100%" cellpadding="8" cellspacing="0">
+                        <tr>
+                            <td width="30%"><label for="fullName"><b>Họ và tên:</b></label></td>
+                            <td width="70%"><input type="text" id="fullName" name="fullName" placeholder="Nhập họ và tên người đặt" required style="width: 80%; padding: 5px;"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="phoneNumber"><b>Số điện thoại:</b></label></td>
+                            <td><input type="text" id="phoneNumber" name="phoneNumber" pattern="0[0-9]{9}" maxlength="10" placeholder="Nhập số điện thoại liên hệ"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="Date"><b>Ngày & Giờ đến:</b></label></td>
+                            <td><input type="datetime-local" id="Date" name="Date" style="padding: 5px;"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="guestCount"><b>Số lượng khách:</b></label></td>
+                            <td><input type="number" id="guestCount" name="guestCount" min="1" max="50" value="1" style="width: 80px; padding: 5px;"> người</td>
+                        </tr>
+                        <tr>
+                            <td><b>Khu vực ngồi:</b></td>
+                            <td>
+                                <input type="radio" id="indoor" name="seating" value="Trong nhà" checked><label for="indoor"> Trong nhà</label> &nbsp;
+                                <input type="radio" id="outdoor" name="seating" value="Sân vườn"><label for="outdoor"> Sân vườn</label> &nbsp;
+                                <input type="radio" id="vip" name="seating" value="Phòng máy lạnh"><label for="vip"> Phòng máy lạnh</label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><label for="note"><b>Ghi chú thêm:</b></label></td>
+                            <td>
+                                <textarea id="note" name="note" rows="3" style="width: 85%; padding: 5px;" ></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center" style="padding-top: 15px;">
+                                <input type="submit" value="XÁC NHẬN ĐẶT BÀN" onclick="alert('Đơn đặt bàn của bạn đã được gửi thành công!')" style="background-color: #4A2306; color: white; padding: 10px 25px; border: none; font-weight: bold; cursor: pointer; border-radius: 4px;">
+                                <input type="reset" value="NHẬP LẠI" style="padding: 10px 15px; margin-left: 10px; cursor: pointer;">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+    </tr>
+    <tr>
+        <table border="1" align="center" width="800" cellpadding="0" cellspacing="0" style="border-collapse: collapse;background-color: #ffd2af">
+            <td style="padding: 5px 10px;width: 50%;">
+            <a href="https://youtube.com/shorts/WxikZYBIDL8?si=4HSzOTUPHoaljJz5" target="_blank";>
+            <img src="../img/chill.jpg" width="100%" height="auto" style="display: block; border-radius: 4px;">
+            </a> 
+            </td>
+            <td>
+            <iframe width="356" height="634" src="https://www.youtube.com/embed/WxikZYBIDL8" title="Mirko coffee - Quán cafe chill chill đẳng cấp nhất Đà Thành" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></td>
+        </table>
+    </tr>
+    <table border="1" align="center" width="800" cellpadding="0" cellspacing="0" style="border-collapse: collapse;text-align:center;background-color: #ffd2af">
+        <tr>
+            <td>
+                <audio controls>
+                <source src="../audio/chill.mp3" type="audio/mpeg">
+                </audio>
+            </td> 
+        </tr>
+    </tr>
+    </table>
+    <tr>
+        <table border="1"align="center" width="800" cellpadding="0" cellspacing="0" style="border-collapse: collapse;background-color: #4A2306;color: white;text-align: center;border: 1px solid black;">
+            <tr>
+                <td colspan="2">
+                    <h3 style="margin-top: 0;">Giờ mở cửa</h3>
+                    <p style="margin: 10;font-family: Lobster Two;">Thứ 2 - Thứ 6: 7:00 AM - 10:00 PM</p>
+                    <p style="margin: 10;font-family: Lobster Two;">Thứ 7 - Chủ nhật: 8:00 AM - 11:00 PM</p>
+                </td>
+                <td colspan="2">
+                    <h3 style="margin-top: 0;">Địa chỉ quán</h3>
+                    <p style="margin: 10;font-family: Lobster Two;">Số 123, Đường ABC, Cao Lãnh, Đồng Tháp</p>
+                    <p style="margin: 10;font-family: Lobster Two;">Điện thoại: 0123456789</p>
+                    <p style="margin: 10;font-family: Lobster Two;">Email: chillcoffee@gmail.com</p>
+                </td>
+            </tr>
+        </table>
+    </tr>
+</table>
+</body>
+</html>
